@@ -2,7 +2,7 @@
 
 **Открытое сообщество энтузиастов.**
 
-**Язык**: *Русский* | [English](profile/README.eu.md)
+**Язык**: *Русский* | [English](https://github.com/QuasarFoks/.github/blob/main/profile/README_eu.md)
 
 Наша миссия — делать технологии доступнее, проще и понятнее для каждого.
 
